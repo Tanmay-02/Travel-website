@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Tanmay-02/Travel-website.git/static/css/main.5b8461a6.css",
+    "main.js": "/Tanmay-02/Travel-website.git/static/js/main.945d88aa.js",
+    "static/js/453.3d5ed704.chunk.js": "/Tanmay-02/Travel-website.git/static/js/453.3d5ed704.chunk.js",
+    "static/media/service2.jpg": "/Tanmay-02/Travel-website.git/static/media/service2.f1770430ae4d06fe3b58.jpg",
+    "static/media/des5.jpg": "/Tanmay-02/Travel-website.git/static/media/des5.0b9f8584057cd1bbf611.jpg",
+    "static/media/des6.jpg": "/Tanmay-02/Travel-website.git/static/media/des6.cf6120840d0c5c26f1a1.jpg",
+    "static/media/des1.jpg": "/Tanmay-02/Travel-website.git/static/media/des1.6faeb6de1325341ebd1a.jpg",
+    "static/media/aboutus.jpg": "/Tanmay-02/Travel-website.git/static/media/aboutus.b90998b419c94e6fbe24.jpg",
+    "static/media/des2.jpg": "/Tanmay-02/Travel-website.git/static/media/des2.d7fcd5d39e6b7ac2dc36.jpg",
+    "static/media/des7.jpg": "/Tanmay-02/Travel-website.git/static/media/des7.0213b8f0679d75decf36.jpg",
+    "static/media/des4.jpg": "/Tanmay-02/Travel-website.git/static/media/des4.fd2f25a1c56528aa0e43.jpg",
+    "static/media/contact.jpg": "/Tanmay-02/Travel-website.git/static/media/contact.731ac03abafc84e94cba.jpg",
+    "static/media/des3.jpg": "/Tanmay-02/Travel-website.git/static/media/des3.9063834fd0c354d0fd5f.jpg",
+    "static/media/12.jpg": "/Tanmay-02/Travel-website.git/static/media/12.257c5311e1cae5638aad.jpg",
+    "index.html": "/Tanmay-02/Travel-website.git/index.html",
+    "main.5b8461a6.css.map": "/Tanmay-02/Travel-website.git/static/css/main.5b8461a6.css.map",
+    "main.945d88aa.js.map": "/Tanmay-02/Travel-website.git/static/js/main.945d88aa.js.map",
+    "453.3d5ed704.chunk.js.map": "/Tanmay-02/Travel-website.git/static/js/453.3d5ed704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8461a6.css",
+    "static/js/main.945d88aa.js"
+  ]
+}
